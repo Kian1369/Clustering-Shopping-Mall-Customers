@@ -54,6 +54,9 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 
 ## K-Means Clustering
 
+K-Means is a popular and widely used clustering algorithm that partitions the data into K distinct clusters. The algorithm works by iteratively assigning data points to one of the K clusters based on the minimum distance to the cluster centroids. After assignment, the centroids are recalculated until the algorithm converges, resulting in clusters that minimize the within-cluster variance.
+
+In this project, K-Means was used to segment customers based on their shopping behaviors, such as `spending score` and `annual income`. The optimal number of clusters was determined using the Elbow Method, which helps to identify the point where the distortion begins to diminish. The resulting clusters were visualized in both 2D and 3D to give a clear representation of the distinct customer segments.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="img/K-Means.png" alt="Kmeans" width="400" height="400"/>
@@ -62,12 +65,19 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 
 ## DBSCAN
 
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a `density-based clustering algorithm` that identifies clusters based on the density of data points. Unlike K-Means, DBSCAN does not require the number of clusters to be specified beforehand and is capable of finding arbitrarily shaped clusters. It works by connecting points that are closely packed together, with points in `low-density regions` considered as `noise or outliers`.
+
+In this project, DBSCAN was applied to the dataset to explore customer segments in a non-parametric way. The algorithm was particularly useful in identifying core samples of high-density areas and distinguishing them from outliers. The clusters formed by DBSCAN provided insights into the customer segments that K-Means might have missed, especially in terms of identifying small, dense groups of customers.
 
 <img src="img/DBSCAN.png" alt="dbscan" width="1000"/>
 <br>
 
 
 ## Hierarchical Clustering
+
+Hierarchical clustering is an algorithm that builds a `hierarchy of clusters` either in an agglomerative (bottom-up) or divisive (top-down) manner. In this project, agglomerative clustering was used, where each data point starts as its own cluster, and pairs of clusters are merged as one moves up the hierarchy. The process continues until all points are in a single cluster or a defined number of clusters is reached.
+
+Dendrograms were used to visualize the hierarchy and determine the optimal number of clusters by identifying the largest distance between two successive merges. Hierarchical clustering provided a different perspective on customer segmentation, offering a clear depiction of how individual customers and clusters are related at various levels of the hierarchy.
 
 <img src="img/Hierarchical.png" alt="hierarchical" width="1000"/>
 <br>
