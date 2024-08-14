@@ -69,7 +69,7 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 
 ## Hierarchical Clustering
 
-<img src="img/ Hierarchical.png" alt=" hierarchical" width="1000"/>
+<img src="img/Hierarchical.png" alt="hierarchical" width="1000"/>
 <br>
 
 ## Conclusion
