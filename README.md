@@ -46,6 +46,12 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 </div>
 <br>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="img/Hist 1.png" alt="hist 1" width="500" height="400"/>
+    <img src="img/Hist 2.png" alt="hist 2" width="500" height="400"/>
+</div>
+<br>
+
 
 ## Predictive Modeling
 Tree-based and boosting models were implemented to predict customer churn. These models included:
