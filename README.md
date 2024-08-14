@@ -46,9 +46,9 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 </div>
 <br>
 
-<img src="img/Hist 1.png" alt="hist1" width="600"/>
+<img src="img/Hist 1.png" alt="hist1" width="800"/>
 <br>
-<img src="img/Hist 2.png" alt="hist2" width="600"/>
+<img src="img/Hist 2.png" alt="hist2" width="800"/>
 
 
 ## Predictive Modeling
