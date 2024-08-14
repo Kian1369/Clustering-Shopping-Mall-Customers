@@ -63,15 +63,10 @@ The performance of the models was evaluated using metrics such as accuracy, reca
 
 ## Conclusion
 Clustering a mall customers or more generally, any retail companies’ customers, based on their shopping behavior and characteristics can provide us with valuable insights for strategic decision-making.
+
 By segmenting customers into distinct groups, the company can tailor marketing strategies and promotions to target specific demographics more effectively. This approach allows for per- sonalized customer experiences, enhances customer satisfaction, and drives sales by offering relevant products and services.
-Additionally, understanding different customer segments helps optimize store layouts, inven- tory management, and promotional activities. Segmentation also enhances recommenda- tion systems by allowing for more accurate and personalized product suggestions based on the specific preferences and behaviors of each customer group. This targeted approach improves oper- ational eﬀiciency and boosts profitability while providing a more engaging shopping experience.
+
+Additionally, understanding different customer segments helps optimize store layouts, inven- tory management, and promotional activities. Segmentation also enhances recommenda- tion systems by allowing for more accurate and personalized product suggestions based on the specific preferences and behaviors of each customer group. This targeted approach improves operational eﬀiciency and boosts profitability while providing a more engaging shopping experience.
 <br>
 <br>
 
-## Installation
-To run this project, we need to have Python installed along with the following libraries:
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
