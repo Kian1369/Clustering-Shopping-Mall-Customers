@@ -63,7 +63,7 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 ## DBSCAN
 
 
-<img src="img/DBSCAN.png" alt="dbscan" width="600"/>
+<img src="img/DBSCAN.png" alt="dbscan" width="1000"/>
 <br>
 
 
