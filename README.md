@@ -4,5 +4,7 @@ In this project, I aim to identify target customers for a shopping mall, and gui
 ## What's included:
 
 Jupyter Notebook: Clustering Project.ipynb - This notebook implements the customer segmentation and clustering analysis.
+
 Dataset: customer.csv 
+
 Project PDF File: Project.pdf
