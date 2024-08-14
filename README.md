@@ -41,8 +41,8 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 A detailed exploratory data analysis was conducted to understand the dataset, identify patterns, and gain insights. This involved checking for missing and duplicated values, analyzing the distribution of `Annual income' and `Spending Scores` for men and women shoppers, and exploring the relationship between `Spending score and Annual Income`, and then the relationship between `Spending score and Age`:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="img/Correlation 1.png" alt="correlation 1" width="500" height="400"/>
-    <img src="img/Correlation 2.png" alt="correlation 2" width="500" height="400"/>
+    <img src="img/Correlation 1.png" alt="correlation 1" width="505" height="400"/>
+    <img src="img/Correlation 2.png" alt="correlation 2" width="505" height="400"/>
 </div>
 <br>
 
