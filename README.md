@@ -49,21 +49,24 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 <img src="img/Hist 1.png" alt="hist1" width="1000" height="450"/>
 <br>
 <img src="img/Hist 2.png" alt="hist2" width="1000" height="450"/>
-
-
-## Predictive Modeling
-Tree-based and boosting models were implemented to predict customer churn. These models included:
-- Decision Trees
-- Random Forests
-- Gradient Boosting Machines (GBM)
-- Adabooster
-
 <br>
 
-## Results
-The performance of the models was evaluated using metrics such as accuracy, recall, and F1-score. The results showed that the boosting methods predicted customer churn better when I performed oversampling of the minority class.
+
+## K-Means Clustering
+
 
 <img src="img/Metrics.png" alt="churn" width="600"/>
+<br>
+
+## DBSCAN
+
+
+<img src="img/Metrics.png" alt="churn" width="600"/>
+<br>
+
+
+## Hierarchical Clustering
+
 <br>
 
 ## Conclusion
