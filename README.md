@@ -2,12 +2,12 @@
 
 <img src="img/clustering pic.jpeg" alt="clustering" width="600"/>
 
-
+<br>
   
 ## Project Overview
 In this project, I aim to identify target customers for a shopping mall, and guide the marketing team in developing marketing strategies and promotions to target specific demographics more effectively. Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, I will make use of three main clustering algorithm, K-Means Clustering, DBSCAN, and Hierarchical Clustering, combined with visualizations of clusters.
 
-
+<br>
 
 ## Project Structure
 The main parts of this project include:
@@ -16,7 +16,7 @@ The main parts of this project include:
 - Part 3: Investigating the DBSCAN Algorithm and Visualizing the Clusters
 - Part 4: Exploring the Hierarchical Clustering, Creating Dendograms and Visualizing the Clusters
 
-
+<br>
 
 ## Dataset 
 The dataset is aquired from kaggle and the link is as follows:
@@ -35,7 +35,7 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
 - Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
 
-
+<br>
 
 ## Exploratory Data Analysis
 A detailed exploratory data analysis was conducted to understand the dataset, identify patterns, and gain insights. This involved checking for missing values, analyzing the distribution of features, and visualizing relationships between features and the target variable (Churn).
