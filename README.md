@@ -56,8 +56,8 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="img/K-Means.png" alt="Kmeans" width="500" height="400"/>
-    <img src="img/3D K-Means.png" alt="3DKmeans" width="500" height="400"/>
+    <img src="img/K-Means.png" alt="Kmeans" width="400" height="400"/>
+    <img src="img/3D K-Means.png" alt="3DKmeans" width="600" height="400"/>
 </div>
 
 ## DBSCAN
