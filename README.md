@@ -14,12 +14,22 @@ The main parts of this project include:
 - Part 4: Exploring the Hierarchical Clustering, Creating Dendograms and Visualizing the Clusters
 
 
-## Dataset XXXXXXXXXXXXXXXX
-The dataset used for this project is sourced from the IBM sample data set collection. It includes information about:
-- Customers who left within the last month (Churn)
-- Services that each customer has signed up for (phone, multiple lines, internet, online security, online backup, device protection, tech support, streaming TV and movies)
-- Customer account information (tenure, contract, payment method, paperless billing, monthly charges, total charges)
-- Demographic info (gender, age range, partners, dependents)
+## Dataset 
+The dataset is aquired from kaggle and the link is as follows:
+
+https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
+
+- The dataset consists of following five features of 200 customers:
+
+- CustomerID: Unique ID assigned to the customer
+
+- Gender: Gender of the customer
+
+- Age: Age of the customer
+  
+- Annual Income (k$): Annual Income of the customer
+
+- Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
 
 
 ## Exploratory Data Analysis
