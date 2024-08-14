@@ -55,8 +55,10 @@ A detailed exploratory data analysis was conducted to understand the dataset, id
 ## K-Means Clustering
 
 
-<img src="img/Metrics.png" alt="churn" width="600"/>
-<br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="img/K-Means.png" alt="Kmeans" width="500" height="400"/>
+    <img src="img/3D K-Means.png" alt="3DKmeans" width="500" height="400"/>
+</div>
 
 ## DBSCAN
 
