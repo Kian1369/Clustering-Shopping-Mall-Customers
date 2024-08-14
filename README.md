@@ -5,15 +5,16 @@
 ## Project Overview
 In this project, I aim to identify target customers for a shopping mall, and guide the marketing team in developing marketing strategies and promotions to target specific demographics more effectively.
 
+
 ## Project Structure
 The main parts of this project include:
-- Part 1: Comprehensive Exploratory Data Analysis
-- Part 2: Churn Cohort Analysis
-- Part 3: Tree-based and Boosting Machine Learning Predictive Models
-- Part 4: Improve Models Performance by Oversampling Minority Class
+- Part 1: Comprehensive Exploratory Data Analysis and Visualizations
+- Part 2: Deploying the K-Means Clustering Algorithm Using scikit-learn package
+- Part 3: Investigating the DBSCAN Algorithm and Visualizing the Clusters
+- Part 4: Exploring the Hierarchical Clustering, Creating Dendograms and Visualizing the Clusters
 
 
-## Dataset
+## Dataset XXXXXXXXXXXXXXXX
 The dataset used for this project is sourced from the IBM sample data set collection. It includes information about:
 - Customers who left within the last month (Churn)
 - Services that each customer has signed up for (phone, multiple lines, internet, online security, online backup, device protection, tech support, streaming TV and movies)
