@@ -1,4 +1,4 @@
-# Clustering-Shopping-Mall-Customers
+# Clustering Shopping Mall Customers
 
 <img src="img/clustering pic.jpeg" alt="clustering" width="600"/>
 
